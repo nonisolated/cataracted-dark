@@ -1,10 +1,10 @@
-# Cataract
+# Cataracted Dark theme for Xcode
 
-![Drag Racing](Preview.png)
+![Cataracted Dark](Preview.png)
 
 ## Install
 ```
 git clone https://github.com/betraying/Cataract.git $TMPDIR/Cataract &&
-mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ &&
+mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes;
 mv $TMPDIR/Cataract/Cataract.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Cataract.xccolortheme
 ```
