@@ -28,8 +28,6 @@
 	<string>1 1 1 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.234992 0.238229 0.273784 1</string>
-	<key>DVTCursor</key>
-	<integer>2</integer>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.12 0.31 0.34 1</string>
 	<key>DVTLineSpacing</key>
@@ -107,7 +105,7 @@
 		<key>xcode.syntax.comment.doc</key>
 		<string>0.321569 0.376471 0.419608 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.784314 0.803922 0.862745 1</string>
+		<string>0.399277 0.46624 0.538189 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.588235 0.705882 0.54902 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -139,7 +137,7 @@
 		<key>xcode.syntax.plain</key>
 		<string>0.784314 0.803922 0.862745 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.745098 0.490196 0.843137 1</string>
+		<string>0.549488 0.490196 0.843137 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.705882 0.705882 0.509804 1</string>
 		<key>xcode.syntax.url</key>
