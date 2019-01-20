@@ -1,6 +1,7 @@
 # Cataracted Dark theme for Xcode
 
 ![Cataracted Dark](Preview.png)
+Example from [SwiftDate](https://github.com/malcommac/SwiftDate)
 
 ## Install
 ```
