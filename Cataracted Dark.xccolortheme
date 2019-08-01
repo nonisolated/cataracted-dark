@@ -30,6 +30,8 @@
 	<string>0.234992 0.238229 0.273784 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.12 0.31 0.34 1</string>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
 	<key>DVTLineSpacing</key>
 	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
@@ -106,6 +108,10 @@
 		<string>0.321569 0.376471 0.419608 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.4 0.466667 0.537255 1</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.732382 0.759087 0.837051 1</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.554462 0.713736 0.687309 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.588235 0.705882 0.54902 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -132,6 +138,10 @@
 		<string>0.823529 0.627451 0.490196 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.745098 0.490196 0.843137 1</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.4 0.466667 0.537255 1</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>0.486275 0.694118 0.705882 1</string>
 		<key>xcode.syntax.number</key>
 		<string>0.823529 0.627451 0.490196 1</string>
 		<key>xcode.syntax.plain</key>
@@ -155,6 +165,10 @@
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>SFMono-Bold - 12.0</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>SFMono-Medium - 12.0</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -181,6 +195,10 @@
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.keyword</key>
 		<string>SFMono-Bold - 12.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>SFMono-Bold - 12.0</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.number</key>
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.plain</key>
