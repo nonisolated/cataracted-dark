@@ -149,7 +149,7 @@
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.411765 0.509804 0.509804 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.803922 0.470588 0.372549 1</string>
+		<string>0.745098 0.470588 0.509804 1</string>
 		<key>xcode.syntax.url</key>
 		<string>0.4 0.466667 0.537255 1</string>
 	</dict>
