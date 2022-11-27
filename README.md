@@ -16,3 +16,5 @@ mv $TMPDIR/Cataracted\ Dark/Cataracted\ Dark.xccolortheme ~/Library/Developer/Xc
 iTerm2 -> Preferences... -> Profiles -> Colors -> Color Presets... -> Import... -> Select theme file
 
 Color Presets... -> choose the color scheme
+
+### [Sublime Text](https://github.com/betraying/cataracted-dark-sublime-text)
