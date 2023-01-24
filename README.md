@@ -7,8 +7,7 @@ Example from [SwiftDate](https://github.com/malcommac/SwiftDate)
 
 ### XCode
 ```
-mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes;
-curl -o ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Cataracted\ Dark.xccolortheme https://raw.githubusercontent.com/betraying/cataracted-dark/master/Cataracted%20Dark.xccolortheme
+curl -o ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Cataracted\ Dark.xccolortheme --create-dirs https://raw.githubusercontent.com/betraying/cataracted-dark/master/Cataracted%20Dark.xccolortheme
 ```
 
 ### iTerm
