@@ -18,8 +18,14 @@ curl -o /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/extensions
 * Select `Dark (Visual Studio)`
 
 ### iTerm
-Preferences... -> Profiles -> Colors -> Color Presets... -> Import... -> Select theme file
+* `Preferences...`
+* `Profiles`
+* `Colors`
+* `Color Presets...`
+* `Import...`
+* Select theme file
 
-Color Presets... -> choose the color scheme
+* `Color Presets...`
+* Select the color scheme
 
 ### [Sublime Text](https://github.com/betraying/cataracted-dark-sublime-text)
