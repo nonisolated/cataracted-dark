@@ -14,7 +14,7 @@ curl -o ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Cataracted\ Dark.x
 ```
 curl -o /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/extensions/theme-defaults/themes/dark_vs.json https://raw.githubusercontent.com/betraying/cataracted-dark/master/Cataracted%20Dark.vscode.json
 ```
-* Press <kbd>⌘</kbd> K + <kbd>⌘</kbd> T
+* Press <kbd>⌘</kbd> <kbd>K</kbd> + <kbd>⌘</kbd> <kbd>T</kbd>
 * Select `Dark (Visual Studio)`
 
 ### iTerm
