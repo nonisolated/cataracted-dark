@@ -10,6 +10,12 @@ Example from [SwiftDate](https://github.com/malcommac/SwiftDate)
 curl -o ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Cataracted\ Dark.xccolortheme --create-dirs https://raw.githubusercontent.com/betraying/cataracted-dark/master/Cataracted%20Dark.xccolortheme
 ```
 
+### Warp
+
+```
+curl -o ~/.warp/themes/cataracted_dark.yaml --create-dirs https://raw.githubusercontent.com/betraying/cataracted-dark/master/cataracted_dark.yaml
+```
+
 ### Visual Studio Code
 ```
 mkdir /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/extensions/theme-cataracted-dark
