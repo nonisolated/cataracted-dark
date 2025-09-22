@@ -5,17 +5,17 @@ foreground: '#C2CED6' # The foreground color.
 terminal_colors: # Ansi escape colors.
   bright:
     black: '#8996A7'
-    blue: '#0000FF'
+    blue: '#8E7FDB'
     cyan: '#6AACAF'
     green: '#9AB894'
-    magenta: '#FF00FF'
-    red: '#FF0000'
+    magenta: '#D18BD1'
+    red: '#C46169'
     white: '#C4C8D7'
     yellow: '#C5BB87'
   normal:
     black: '#414D58'
     blue: '#7E70C2'
-    cyan: '#559395'
+    cyan: '#509395'
     green: '#7DA375'
     magenta: '#B87AB8'
     red: '#AC535A'
