@@ -11,7 +11,7 @@
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>SFMono-Medium - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.717013 0.409517 0.455442 1</string>
+	<string>0.439216 0.611765 0.607843 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
 	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
@@ -23,7 +23,7 @@
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.113725 0.109804 0.129412 1</string>
+	<string>0.0784314 0.0823529 0.0980392 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0.784314 0.803922 0.862745 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
@@ -107,7 +107,7 @@
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.400515 0.465905 0.537804 1</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>0.439686 0.610129 0.60683 1</string>
+		<string>0.439216 0.611765 0.607843 1</string>
 		<key>xcode.syntax.declaration.type</key>
 		<string>0.559142 0.699908 0.660035 1</string>
 		<key>xcode.syntax.identifier.class</key>
