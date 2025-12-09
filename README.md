@@ -16,6 +16,13 @@ curl -o ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Cataracted\ Dark.x
 curl -o ~/.warp/themes/cataracted_dark.yaml --create-dirs https://raw.githubusercontent.com/nonisolated/cataracted-dark/master/cataracted_dark.yaml
 ```
 
+
+### Opencode
+
+```
+curl -o ~/.config/opencode/themes/cataracted_dark.json --create-dirs https://raw.githubusercontent.com/nonisolated/cataracted-dark/master/opencode/cataracted_dark.json
+```
+
 ### Visual Studio Code
 ```
 mkdir /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/extensions/theme-cataracted-dark
