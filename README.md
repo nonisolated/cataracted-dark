@@ -7,20 +7,26 @@ Example from [SwiftDate](https://github.com/malcommac/SwiftDate)
 
 ### XCode
 ```
-curl -o ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Cataracted\ Dark.xccolortheme --create-dirs https://raw.githubusercontent.com/nonisolated/cataracted-dark/master/Cataracted%20Dark.xccolortheme
+curl -o ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Cataracted\ Dark.xccolortheme --create-dirs https://raw.githubusercontent.com/nonisolated/cataracted-dark/master/xcode/Cataracted%20Dark.xccolortheme
 ```
 
-### Warp
-
+### iTerm
 ```
-curl -o ~/.warp/themes/cataracted_dark.yaml --create-dirs https://raw.githubusercontent.com/nonisolated/cataracted-dark/master/cataracted_dark.yaml
+curl -o ~/Downloads/Cataracted Dark.itermcolors --create-dirs https://raw.githubusercontent.com/nonisolated/cataracted-dark/master/iterm/Cataracted%20Dark.itermcolors
 ```
-
+* `Preferences...` -> `Profiles` -> `Colors` -> `Color Presets...` -> `Import...` -> Select theme file from `Downloads` folder
+* `Color Presets...` -> Select `Cataracted Dark`
 
 ### Opencode
 
 ```
 curl -o ~/.config/opencode/themes/cataracted_dark.json --create-dirs https://raw.githubusercontent.com/nonisolated/cataracted-dark/master/opencode/cataracted_dark.json
+```
+
+### Warp
+
+```
+curl -o ~/.warp/themes/cataracted_dark.yaml --create-dirs https://raw.githubusercontent.com/nonisolated/cataracted-dark/master/warp/cataracted_dark.yaml
 ```
 
 ### Visual Studio Code
@@ -33,16 +39,5 @@ curl -o /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/extensions
 ```
 * Press <kbd>⌘</kbd> <kbd>K</kbd> + <kbd>⌘</kbd> <kbd>T</kbd>
 * Select `Dark (Visual Studio)`
-
-### iTerm
-* `Preferences...`
-* `Profiles`
-* `Colors`
-* `Color Presets...`
-* `Import...`
-* Select theme file
-
-* `Color Presets...`
-* Select the color scheme
 
 ### [Sublime Text](https://github.com/nonisolated/cataracted-dark-sublime-text)
