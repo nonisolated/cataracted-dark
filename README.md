@@ -12,7 +12,7 @@ curl -o ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Cataracted\ Dark.x
 
 ### iTerm
 ```
-curl -o ~/Downloads/Cataracted Dark.itermcolors --create-dirs https://raw.githubusercontent.com/nonisolated/cataracted-dark/master/iterm/Cataracted%20Dark.itermcolors
+curl -o ~/Downloads/Cataracted\ Dark.itermcolors --create-dirs https://raw.githubusercontent.com/nonisolated/cataracted-dark/master/iterm/Cataracted%20Dark.itermcolors
 ```
 * `Preferences...` -> `Profiles` -> `Colors` -> `Color Presets...` -> `Import...` -> Select theme file from `Downloads` folder
 * `Color Presets...` -> Select `Cataracted Dark`
