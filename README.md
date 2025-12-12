@@ -1,6 +1,6 @@
 # Cataracted Dark
 
-![Cataracted Dark](Preview.png)
+![Cataracted Dark](Preview.jpg)
 Example from [SwiftDate](https://github.com/malcommac/SwiftDate)
 
 ## Installation
