@@ -1,225 +1,223 @@
 {
   "$schema": "https://opencode.ai/theme.json",
   "defs": {
-    "nord0": "#1A1C21",
-    "nord1": "#1F2229",
-    "nord2": "#434C5E",
-    "nord3": "#667789",
-    "nord4": "#BDC0CA",
-    "nord5": "#E5E9F0",
-    "nord6": "#ECEFF4",
-    "nord7": "#C29971",
-    "nord8": "#509395",
-    "nord9": "#B76874",
-    "nord10": "#5E81AC",
-    "nord11": "#B76874",
-    "nord12": "#BDB274",
-    "nord13": "#BA9979",
-    "nord14": "#8EB58B",
-    "nord15": "#9775D0",
+    "bgBase": "#1A1B20",
+    "bgPanel": "#1F2229",
+    "borderDefault": "#4A5660",
+    "textMuted": "#607280",
+    "textDefault": "#C2CED6",
+    "accentWarm": "#BB936E",
+    "primaryTeal": "#6A9492",
+    "accentRose": "#C57883",
+    "errorRed": "#D4646F",
+    "warningYellow": "#CABD7E",
+    "accentOlive": "#97A76C",
+    "successGreen": "#94BB93",
+    "accentViolet": "#AB74D3",
     "diffAddedBg": "#2C3B2F",
-    "diffRemovedBg": "#3C2C2C"
+    "diffRemovedBg": "#3C2C2C",
+    "number": "#8c6cc0"
   },
   "theme": {
     "primary": {
-      "dark": "nord8",
-      "light": "nord10"
+      "dark": "primaryTeal",
+      "light": "primaryTeal"
     },
     "secondary": {
-      "dark": "nord9",
-      "light": "nord9"
+      "dark": "accentRose",
+      "light": "accentRose"
     },
     "accent": {
-      "dark": "nord7",
-      "light": "nord7"
+      "dark": "accentWarm",
+      "light": "accentWarm"
     },
     "error": {
-      "dark": "nord11",
-      "light": "nord11"
+      "dark": "errorRed",
+      "light": "errorRed"
     },
     "warning": {
-      "dark": "nord12",
-      "light": "nord12"
+      "dark": "warningYellow",
+      "light": "warningYellow"
     },
     "success": {
-      "dark": "nord14",
-      "light": "nord14"
+      "dark": "successGreen",
+      "light": "successGreen"
     },
     "info": {
-      "dark": "nord8",
-      "light": "nord10"
+      "dark": "primaryTeal",
+      "light": "primaryTeal"
     },
     "text": {
-      "dark": "nord4",
-      "light": "nord0"
+      "dark": "textDefault",
+      "light": "textDefault"
     },
     "textMuted": {
-      "dark": "nord3",
-      "light": "nord1"
+      "dark": "textMuted",
+      "light": "textMuted"
     },
     "background": {
-      "dark": "nord0",
-      "light": "nord6"
+      "dark": "bgBase",
+      "light": "bgBase"
     },
     "backgroundPanel": {
-      "dark": "nord1",
-      "light": "nord5"
+      "dark": "bgPanel",
+      "light": "bgPanel"
     },
     "backgroundElement": {
-      "dark": "nord1",
-      "light": "nord4"
+      "dark": "bgPanel",
+      "light": "bgPanel"
     },
     "border": {
-      "dark": "nord2",
-      "light": "nord3"
+      "dark": "borderDefault",
+      "light": "borderDefault"
     },
     "borderActive": {
-      "dark": "nord3",
-      "light": "nord2"
+      "dark": "textMuted",
+      "light": "textMuted"
     },
     "borderSubtle": {
-      "dark": "nord2",
-      "light": "nord3"
+      "dark": "borderDefault",
+      "light": "borderDefault"
     },
     "diffAdded": {
-      "dark": "nord14",
-      "light": "nord14"
+      "dark": "successGreen",
+      "light": "successGreen"
     },
     "diffRemoved": {
-      "dark": "nord11",
-      "light": "nord11"
+      "dark": "errorRed",
+      "light": "errorRed"
     },
     "diffContext": {
-      "dark": "nord3",
-      "light": "nord3"
+      "dark": "textMuted",
+      "light": "textMuted"
     },
     "diffHunkHeader": {
-      "dark": "nord3",
-      "light": "nord3"
+      "dark": "textMuted",
+      "light": "textMuted"
     },
     "diffHighlightAdded": {
-      "dark": "nord14",
-      "light": "nord14"
+      "dark": "successGreen",
+      "light": "successGreen"
     },
     "diffHighlightRemoved": {
-      "dark": "nord11",
-      "light": "nord11"
+      "dark": "errorRed",
+      "light": "errorRed"
     },
     "diffAddedBg": {
       "dark": "diffAddedBg",
-      "light": "#E5E9F0"
+      "light": "diffAddedBg"
     },
     "diffRemovedBg": {
       "dark": "diffRemovedBg",
-      "light": "#E5E9F0"
+      "light": "diffRemovedBg"
     },
     "diffContextBg": {
-      "dark": "nord1",
-      "light": "nord5"
+      "dark": "bgPanel",
+      "light": "bgPanel"
     },
     "diffLineNumber": {
-      "dark": "nord2",
-      "light": "nord4"
+      "dark": "borderDefault",
+      "light": "borderDefault"
     },
     "diffAddedLineNumberBg": {
       "dark": "diffAddedBg",
-      "light": "#E5E9F0"
+      "light": "diffAddedBg"
     },
     "diffRemovedLineNumberBg": {
       "dark": "diffRemovedBg",
-      "light": "#E5E9F0"
+      "light": "diffRemovedBg"
     },
     "markdownText": {
-      "dark": "nord4",
-      "light": "nord0"
+      "dark": "textDefault",
+      "light": "textDefault"
     },
     "markdownHeading": {
-      "dark": "nord8",
-      "light": "nord10"
+      "dark": "accentRose",
+      "light": "accentRose"
     },
     "markdownLink": {
-      "dark": "nord9",
-      "light": "nord9"
+      "dark": "accentRose",
+      "light": "accentRose"
     },
     "markdownLinkText": {
-      "dark": "nord7",
-      "light": "nord7"
+      "dark": "accentWarm",
+      "light": "accentWarm"
     },
     "markdownCode": {
-      "dark": "nord14",
-      "light": "nord14"
+      "dark": "successGreen",
+      "light": "successGreen"
     },
     "markdownBlockQuote": {
-      "dark": "nord3",
-      "light": "nord3"
+      "dark": "textMuted",
+      "light": "textMuted"
     },
     "markdownEmph": {
-      "dark": "nord12",
-      "light": "nord12"
+      "dark": "warningYellow",
+      "light": "warningYellow"
     },
     "markdownStrong": {
-      "dark": "nord13",
-      "light": "nord13"
+      "dark": "accentOlive",
+      "light": "accentOlive"
     },
     "markdownHorizontalRule": {
-      "dark": "nord3",
-      "light": "nord3"
+      "dark": "textMuted",
+      "light": "textMuted"
     },
     "markdownListItem": {
-      "dark": "nord8",
-      "light": "nord10"
+      "dark": "textDefault",
+      "light": "textDefault"
     },
     "markdownListEnumeration": {
-      "dark": "nord7",
-      "light": "nord7"
+      "dark": "accentWarm",
+      "light": "accentWarm"
     },
     "markdownImage": {
-      "dark": "nord9",
-      "light": "nord9"
+      "dark": "accentRose",
+      "light": "accentRose"
     },
     "markdownImageText": {
-      "dark": "nord7",
-      "light": "nord7"
+      "dark": "accentWarm",
+      "light": "accentWarm"
     },
     "markdownCodeBlock": {
-      "dark": "nord4",
-      "light": "nord0"
+      "dark": "textDefault",
+      "light": "textDefault"
     },
     "syntaxComment": {
-      "dark": "nord3",
-      "light": "nord3"
+      "dark": "textMuted",
+      "light": "textMuted"
     },
     "syntaxKeyword": {
-      "dark": "nord9",
-      "light": "nord9"
+      "dark": "accentViolet",
+      "light": "accentViolet"
     },
     "syntaxFunction": {
-      "dark": "nord8",
-      "light": "nord8"
+      "dark": "primaryTeal",
+      "light": "primaryTeal"
     },
     "syntaxVariable": {
-      "dark": "nord7",
-      "light": "nord7"
+      "dark": "textDefault",
+      "light": "textDefault"
     },
     "syntaxString": {
-      "dark": "nord14",
-      "light": "nord14"
+      "dark": "accentRose",
+      "light": "accentRose"
     },
     "syntaxNumber": {
-      "dark": "nord15",
-      "light": "nord15"
+      "dark": "number",
+      "light": "number"
     },
     "syntaxType": {
-      "dark": "nord7",
-      "light": "nord7"
+      "dark": "accentOlive",
+      "light": "accentOlive"
     },
     "syntaxOperator": {
-      "dark": "nord9",
-      "light": "nord9"
+      "dark": "textDefault",
+      "light": "textDefault"
     },
     "syntaxPunctuation": {
-      "dark": "nord4",
-      "light": "nord0"
+      "dark": "textDefault",
+      "light": "textDefault"
     }
   }
 }
