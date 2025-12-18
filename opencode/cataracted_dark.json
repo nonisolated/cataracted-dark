@@ -3,20 +3,19 @@
   "defs": {
     "darkGray": "#1A1B20",
     "charcoalGray": "#1F2229",
-    "steelBlue": "#4A5660",
-    "slateBlue": "#687787",
+    "steelBlue": "#7A8995",
     "lightGray": "#C2CED6",
-    "camelBrown": "#BB936E",
-    "teal": "#709C9B",
-    "dustyRose": "#B76874",
+    "camelBrown": "#C7A98B",
+    "teal": "#82ABAC",
+    "dustyRose": "#C57D87",
     "coralRed": "#D4646F",
-    "paleYellow": "#CABD7E",
-    "oliveGreen": "#A2B279",
-    "sageGreen": "#94BB93",
-    "orchidPurple": "#AD79D2",
-    "darkGreen": "#2C3B2F",
-    "darkRed": "#3C2C2C",
-    "lavenderPurple": "#8c6cc0"
+    "paleYellow": "#CABE86",
+    "oliveGreen": "#B1BE8C",
+    "sageGreen": "#9EC19C",
+    "orchidPurple": "#BC8FDC",
+    "darkGreen": "#2E3930",
+    "darkRed": "#392F2F",
+    "lavenderPurple": "#A88CD9"
   },
   "theme": {
     "primary": {
@@ -52,8 +51,8 @@
       "light": "lightGray"
     },
     "textMuted": {
-      "dark": "slateBlue",
-      "light": "slateBlue"
+      "dark": "steelBlue",
+      "light": "steelBlue"
     },
     "background": {
       "dark": "darkGray",
@@ -88,12 +87,12 @@
       "light": "coralRed"
     },
     "diffContext": {
-      "dark": "slateBlue",
-      "light": "slateBlue"
+      "dark": "steelBlue",
+      "light": "steelBlue"
     },
     "diffHunkHeader": {
-      "dark": "slateBlue",
-      "light": "slateBlue"
+      "dark": "steelBlue",
+      "light": "steelBlue"
     },
     "diffHighlightAdded": {
       "dark": "sageGreen",
@@ -128,12 +127,12 @@
       "light": "darkRed"
     },
     "markdownText": {
-      "dark": "lightGray",
-      "light": "lightGray"
+      "dark": "steelBlue",
+      "light": "steelBlue"
     },
     "markdownHeading": {
-      "dark": "dustyRose",
-      "light": "dustyRose"
+      "dark": "sageGreen",
+      "light": "sageGreen"
     },
     "markdownLink": {
       "dark": "dustyRose",
@@ -144,24 +143,24 @@
       "light": "camelBrown"
     },
     "markdownCode": {
-      "dark": "sageGreen",
-      "light": "sageGreen"
+      "dark": "camelBrown",
+      "light": "camelBrown"
     },
     "markdownBlockQuote": {
-      "dark": "slateBlue",
-      "light": "slateBlue"
+      "dark": "steelBlue",
+      "light": "steelBlue"
     },
     "markdownEmph": {
       "dark": "paleYellow",
       "light": "paleYellow"
     },
     "markdownStrong": {
-      "dark": "orchidPurple",
-      "light": "orchidPurple"
+      "dark": "dustyRose",
+      "light": "dustyRose"
     },
     "markdownHorizontalRule": {
-      "dark": "slateBlue",
-      "light": "slateBlue"
+      "dark": "steelBlue",
+      "light": "steelBlue"
     },
     "markdownListItem": {
       "dark": "lightGray",
@@ -180,12 +179,12 @@
       "light": "camelBrown"
     },
     "markdownCodeBlock": {
-      "dark": "lightGray",
-      "light": "lightGray"
+      "dark": "steelBlue",
+      "light": "steelBlue"
     },
     "syntaxComment": {
-      "dark": "slateBlue",
-      "light": "slateBlue"
+      "dark": "steelBlue",
+      "light": "steelBlue"
     },
     "syntaxKeyword": {
       "dark": "orchidPurple",
@@ -216,8 +215,8 @@
       "light": "lightGray"
     },
     "syntaxPunctuation": {
-      "dark": "lightGray",
-      "light": "lightGray"
+      "dark": "dustyRose",
+      "light": "dustyRose"
     }
   }
 }
