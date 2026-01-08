@@ -2013,6 +2013,7 @@
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#1A1B20",
-    "debugExceptionWidget.border": "#232328"
+    "debugExceptionWidget.border": "#232328",
+    "actionBar.toggledBackground": "#444E55"
   }
 }
